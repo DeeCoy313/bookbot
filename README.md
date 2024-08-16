@@ -1,2 +1,1 @@
-# hola-world
-my 1st repo on guthub!
+BookBot is my first project!
